@@ -1,4 +1,4 @@
-# Geology Forecast Challenge — Project 3
+# Geology Forecast Challenge
 
 Project summary
 
